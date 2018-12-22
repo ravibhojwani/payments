@@ -1,11 +1,12 @@
-Wirex Bitcoin account : 
+Wirex Bitcoin account ; 
 3JNGeK1HdVP2Pd7yoc32gfStMvgbzCo1Cs
-Wirex Referral Link UK :
+
+WirexReferralLink UK
 
 https://wirexapp.com/r/86r88bc93k
 
 
-Wirex Litecoin Account :
+Wirex Litecoin Account 
 
 3GtbuhkCgPRGXfdfZ55cQVnd7tYosb5JiT  
 NOTE OLD FORMAT But ACCEPTS NEW STYLE ADDRESS :
