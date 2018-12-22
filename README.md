@@ -7,9 +7,9 @@ https://wirexapp.com/r/86r88bc93k
 
 
 Wirex Litecoin Account 
-
 3GtbuhkCgPRGXfdfZ55cQVnd7tYosb5JiT  
-NOTE OLD FORMAT But ACCEPTS NEW STYLE ADDRESS :
+OLD FORMAT 
+NEW STYLE ADDRESS
 MP6kDbAAdWGhLAuZex4xE932Sb9FvrFgn8
  
 Wirex ETH:
