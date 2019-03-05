@@ -1,11 +1,11 @@
-Wirex Bitcoin
+Wirex 
 
 Debit; Contactless ;
 
-Z❤️Cash NOT Supported / ERC20 NOT SUPPORTED
+Eth, Waves, LTC ,BTC 
+Waves Added : 
 
-
-Deposit Bitcoin here :     3JNGeK1HdVP2Pd7yoc32gfStMvgbzCo1Cs
+Deposit Bitcoin here :     3JNGeK1HdVP2Pd7yoc32gfStMvgbzCo1Cs   (tested)
 
 WirexReferralLink UK
 
@@ -26,10 +26,3 @@ destination tag :
 130287930
 Address:
 rXieaAC3nevTKgVu2SYoShjTCS2Tfczqx
-
-
-Create QR codes ?
-
-Create Buttons
-
- Change this into a PHP website ??
