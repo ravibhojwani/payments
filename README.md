@@ -1,15 +1,15 @@
-Wirex 
+Wirex UK based and not linked to 'My Rare Pepe wallet address is 1PWTgePFS6JsuhCpmvjKbwXsfConJzYGEX // Collect Rare Pepes at rarepepewallet.com'
 
 Debit; Contactless ;
 
 Eth, Waves, LTC ,BTC 
 Waves Added : 
 
-Deposit Bitcoin here :     3JNGeK1HdVP2Pd7yoc32gfStMvgbzCo1Cs   (tested)
+Deposit Bitcoin here :     3JNGeK1HdVP2Pd7yoc32gfStMvgbzCo1Cs   (tested)  REWARD - DEXTERPEPE
 
 WirexReferralLink UK
 
-https://wirexapp.com/r/86r88bc93k
+https://wirexapp.com/r/86r88bc93k   COINFEST SPECIAL - SIGN UP AND MEET AT COINFEST for AFRICASH on WAVES
 
 
 Wirex Litecoin Account 
