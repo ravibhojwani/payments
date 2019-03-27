@@ -24,3 +24,7 @@ rXieaAC3nevTKgVu2SYoShjTCS2Tfczqx
 DAI and NANO added 
 Waves on MEDUIM LINK;
 WIREX Offical link;
+
+
+
+reduce to to widjet 
