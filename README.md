@@ -1,4 +1,4 @@
-W
+For Payments to Wirex 
 Deposit Bitcoin here :     3JNGeK1HdVP2Pd7yoc32gfStMvgbzCo1Cs   (tested)  
 WirexReferralLink UK 
 https://wirexapp.com/r/86r88bc93k  
